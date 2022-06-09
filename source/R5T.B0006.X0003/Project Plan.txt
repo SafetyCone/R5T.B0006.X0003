@@ -1,3 +1,6 @@
 R5T.B0006.X0003 - Generation, initial, parse extensions for ISyntaxGenerator and related bases.
 
-GOALS:
+Allowed Dependencies:
+
+* R5T.B0006 - ISyntaxGenerator base.
+* R5T.F0006 - Generation, initial, parse functionality for Roslyn syntax elements.
